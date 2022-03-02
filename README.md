@@ -8,4 +8,4 @@ My attempt at 100 Days CSS Challenge. Inspired by [Matthias Martin](https://100d
 
 # Demo
 
-- [001 - Title](https://chayezo.github.io/100DaysCSS/001Title/)
+<!-- - [001 - Title](https://chayezo.github.io/100DaysCSS/001Title/) -->
